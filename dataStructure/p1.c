@@ -1,3 +1,9 @@
+/*
+Abtin Firouzyar
+prof: Dr Amanj Khorramian
+UOK
+*/
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
